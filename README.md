@@ -8,6 +8,8 @@ This README provides instructions for setting up a Python virtual environment (v
 
 ## Step-by-Step Guide
 
+# before you run main.py you have to download llama2 model from ollama then it will work else not.
+
 ### 1. Create the Virtual Environment
 
 python -m venv env
